@@ -13195,3 +13195,72 @@ Are you sure?
 [2026.01.30-22.54.47:752][137]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
 		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
 		NumGeometrySegments changed: current: 0 - new: 512
+[2026.01.30-22.56.03:158][834]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2026.01.30-22.56.03:162][834]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.30-22.56.03:163][834]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Characters/Mannequins/Anims/Unarmed/ABP_Unarmed] ([2] browsable assets)...
+[2026.01.30-22.56.03:279][834]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Characters/Mannequins/Anims/Unarmed/ABP_Unarmed.ABP_Unarmed]
+[2026.01.30-22.56.03:279][834]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Anims/Unarmed/ABP_Unarmed]
+[2026.01.30-22.56.03:313][834]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Anims/Unarmed/ABP_Unarmed
+[2026.01.30-22.56.03:313][834]LogSavePackage: Moving '../../../../../../Users/Hyde/Documents/GitHub/DecayGame/Decay/Saved/ABP_Unarmed524FDA2A4D746FB87770B79DD9A4CCF8.tmp' to '../../../../../../Users/Hyde/Documents/GitHub/DecayGame/Decay/Content/Characters/Mannequins/Anims/Unarmed/ABP_Unarmed.uasset'
+[2026.01.30-22.56.03:314][834]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Multiplayer/Blueprints/BP_GM_Multi] ([2] browsable assets)...
+[2026.01.30-22.56.03:314][834]OBJ SavePackage: Finished generating thumbnails for package [/Game/Multiplayer/Blueprints/BP_GM_Multi]
+[2026.01.30-22.56.03:314][834]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Multiplayer/Blueprints/BP_GM_Multi" FILE="../../../../../../Users/Hyde/Documents/GitHub/DecayGame/Decay/Content/Multiplayer/Blueprints/BP_GM_Multi.uasset" SILENT=true
+[2026.01.30-22.56.03:321][834]LogSavePackage: Moving output files for package: /Game/Multiplayer/Blueprints/BP_GM_Multi
+[2026.01.30-22.56.03:322][834]LogSavePackage: Moving '../../../../../../Users/Hyde/Documents/GitHub/DecayGame/Decay/Saved/BP_GM_MultiDA830A6E4DC24A8B8B89A48D4447DACA.tmp' to '../../../../../../Users/Hyde/Documents/GitHub/DecayGame/Decay/Content/Multiplayer/Blueprints/BP_GM_Multi.uasset'
+[2026.01.30-22.56.03:322][834]LogFileHelpers: InternalPromptForCheckoutAndSave took 160.124 ms (total: 3.42 sec)
+[2026.01.30-22.56.03:327][834]LogContentValidation: Display: Starting to validate 2 assets
+[2026.01.30-22.56.03:327][834]LogContentValidation: Enabled validators:
+[2026.01.30-22.56.03:327][834]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.30-22.56.03:327][834]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.30-22.56.03:327][834]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.30-22.56.03:327][834]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.30-22.56.03:327][834]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.30-22.56.03:327][834]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.30-22.56.03:327][834]AssetCheck: /Game/Characters/Mannequins/Anims/Unarmed/ABP_Unarmed Validating asset
+[2026.01.30-22.56.03:327][834]AssetCheck: /Game/Multiplayer/Blueprints/BP_GM_Multi Validating asset
+[2026.01.30-22.56.03:339][834]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/Hyde/Documents/GitHub/DecayGame/Decay/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.30-22.56.04:289][874]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.30-22.56.04:289][874]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_1_Lvl_FirstPerson
+[2026.01.30-22.56.04:289][874]LogSlate: Window 'Decay Preview [NetMode: Client 1]  (64-bit/PC D3D SM6)' being destroyed
+[2026.01.30-22.56.04:292][874]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2026.01.30-22.56.04:292][874]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.30-22.56.04:292][874]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_1_Lvl_FirstPerson.Lvl_FirstPerson
+[2026.01.30-22.56.04:293][874]LogNet: World NetDriver shutdown IpNetDriver_33 [GameNetDriver]
+[2026.01.30-22.56.04:293][874]LogNet: DestroyNamedNetDriver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_33 
+[2026.01.30-22.56.04:293][874]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_32, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_33, IsServer: NO, PC: BP_PC_Multi_C_0, Owner: BP_PC_Multi_C_0, UniqueId: NULL:DESKTOP-8A7CDKB-49EB54404A0CC12254534D88CFA2BCCF, Channels: 11, Time: 2026.01.30-22.56.04
+[2026.01.30-22.56.04:293][874]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_32, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_33, IsServer: NO, PC: BP_PC_Multi_C_0, Owner: BP_PC_Multi_C_0, UniqueId: NULL:DESKTOP-8A7CDKB-49EB54404A0CC12254534D88CFA2BCCF
+[2026.01.30-22.56.04:293][874]LogExit: Name:GameNetDriver Def:GameNetDriver IpNetDriver_33 shut down
+[2026.01.30-22.56.04:293][874]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2026.01.30-22.56.04:294][874]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.30-22.56.04:295][874]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2026.01.30-22.56.04:295][874]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.30-22.56.04:295][874]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2026.01.30-22.56.04:296][874]LogNet: World NetDriver shutdown IpNetDriver_32 [GameNetDriver]
+[2026.01.30-22.56.04:296][874]LogNet: DestroyNamedNetDriver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_32 
+[2026.01.30-22.56.04:296][874]LogNet: UNetConnection::SendCloseReason:
+[2026.01.30-22.56.04:296][874]LogNet:  - Result=HostClosedConnection, ErrorContext="HostClosedConnection"
+[2026.01.30-22.56.04:297][874]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:49572, Name: IpConnection_33, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_32, IsServer: YES, PC: BP_PC_Multi_C_1, Owner: BP_PC_Multi_C_1, UniqueId: NULL:DESKTOP-8A7CDKB-49EB54404A0CC12254534D88CFA2BCCF
+[2026.01.30-22.56.04:297][874]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:49572, Name: IpConnection_33, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_32, IsServer: YES, PC: BP_PC_Multi_C_1, Owner: BP_PC_Multi_C_1, UniqueId: NULL:DESKTOP-8A7CDKB-49EB54404A0CC12254534D88CFA2BCCF, Channels: 11, Time: 2026.01.30-22.56.04
+[2026.01.30-22.56.04:297][874]LogNet: UNetConnection::SendCloseReason:
+[2026.01.30-22.56.04:297][874]LogNet:  - Result=Cleanup, ErrorContext="Cleanup"
+[2026.01.30-22.56.04:297][874]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:49572, Name: IpConnection_33, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_32, IsServer: YES, PC: BP_PC_Multi_C_1, Owner: BP_PC_Multi_C_1, UniqueId: NULL:DESKTOP-8A7CDKB-49EB54404A0CC12254534D88CFA2BCCF
+[2026.01.30-22.56.04:297][874]LogNet: UNetDriver::RemoveClientConnection - Removed address 127.0.0.1:49572 from MappedClientConnections for: [UNetConnection] RemoteAddr: 127.0.0.1:49572, Name: IpConnection_33, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_32, IsServer: YES, PC: BP_PC_Multi_C_1, Owner: BP_PC_Multi_C_1, UniqueId: NULL:DESKTOP-8A7CDKB-49EB54404A0CC12254534D88CFA2BCCF
+[2026.01.30-22.56.04:297][874]LogExit: Name:GameNetDriver Def:GameNetDriver IpNetDriver_32 shut down
+[2026.01.30-22.56.04:297][874]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.30-22.56.04:299][874]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.30-22.56.04:316][874]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.01.30-22.56.04:316][874]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 35
+[2026.01.30-22.56.04:316][874]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35, StreamState=4
+[2026.01.30-22.56.04:317][874]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35, StreamState=2
+[2026.01.30-22.56.04:321][874]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 34
+[2026.01.30-22.56.04:321][874]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34, StreamState=4
+[2026.01.30-22.56.04:322][874]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34, StreamState=2
+[2026.01.30-22.56.04:326][874]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.30-22.56.04:330][874]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2026.01.30-22.56.04:393][875]LogPlayLevel: Display: Destroying online subsystem :Context_92
+[2026.01.30-22.56.04:395][875]LogPlayLevel: Display: Destroying online subsystem :Context_91
+[2026.01.30-22.56.07:546][952]LogSlate: Window 'Message Log' being destroyed
+[2026.01.30-22.56.07:555][952]LogSlate: Window 'Message Log' being destroyed
+[2026.01.30-22.56.22:428][ 26]LogSlate: Window 'Retarget Animations' being destroyed
+[2026.01.30-22.56.23:569][ 29]LogSlate: Window 'Content Browser' being destroyed
+[2026.01.30-22.56.23:572][ 29]LogSlate: Window 'Content Browser' being destroyed
