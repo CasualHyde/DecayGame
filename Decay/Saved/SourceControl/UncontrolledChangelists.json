@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/CHI24000679/Downloads/DecayGame/Decay/Content/Characters/Mannequins/Anims/Unarmed/ABP_Unarmed.uasset",
+				"C:/Users/CHI24000679/Downloads/DecayGame/Decay/Content/Input/IMC_Default.uasset",
+				"C:/Users/CHI24000679/Downloads/DecayGame/Decay/Content/Input/Actions/IA_AimIn.uasset",
+				"C:/Users/CHI24000679/Downloads/DecayGame/Decay/Content/Multiplayer/Blueprints/BP_FirstChr2.uasset",
 				"C:/Users/Hyde/Documents/GitHub/DecayGame/Decay/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
 				"C:/Users/Hyde/Documents/GitHub/DecayGame/Decay/Content/Multiplayer/BP_FirstPersonCharacter.uasset",
 				"C:/Users/Hyde/Documents/GitHub/DecayGame/Decay/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
