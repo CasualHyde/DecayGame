@@ -5,14 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/CHI24000679/Downloads/DecayGame/Decay/Content/Characters/Mannequins/Anims/Unarmed/ABP_Unarmed.uasset",
-				"C:/Users/CHI24000679/Downloads/DecayGame/Decay/Content/Input/IMC_Default.uasset",
-				"C:/Users/CHI24000679/Downloads/DecayGame/Decay/Content/Input/Actions/IA_AimIn.uasset",
-				"C:/Users/CHI24000679/Downloads/DecayGame/Decay/Content/Multiplayer/Blueprints/BP_FirstChr2.uasset",
 				"C:/Users/Hyde/Documents/GitHub/DecayGame/Decay/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
-				"C:/Users/Hyde/Documents/GitHub/DecayGame/Decay/Content/Multiplayer/BP_FirstPersonCharacter.uasset",
-				"C:/Users/Hyde/Documents/GitHub/DecayGame/Decay/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
-				"C:/Users/Hyde/Documents/GitHub/DecayGame/Decay/Content/Multiplayer/Blueprints/BP_FirstPersonCharacter.uasset",
 				"C:/Users/Hyde/Documents/GitHub/DecayGame/Decay/Content/Multiplayer/Blueprints/BP_FirstChr.uasset",
 				"C:/Users/Hyde/Documents/GitHub/DecayGame/Decay/Content/FirstPerson/Lvl_FirstPerson.umap",
 				"C:/Users/Hyde/Documents/GitHub/DecayGame/Decay/Content/Multiplayer/Blueprints/BP_GM_Multi.uasset",
@@ -154,7 +147,19 @@
 				"C:/Users/Hyde/Documents/GitHub/DecayGame/Decay/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/C7/LHEOZ28EA00LZG55QEAGFH.uasset",
 				"C:/Users/Hyde/Documents/GitHub/DecayGame/Decay/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/7/NI/7Z9KFUHGDC33I0LYBUUYUQ.uasset",
 				"C:/Users/Hyde/Documents/GitHub/DecayGame/Decay/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/NN/UPER9K07U6B78EE80PY058.uasset",
-				"C:/Users/Hyde/Documents/GitHub/DecayGame/Decay/Content/Characters/Mannequins/Anims/Unarmed/ABP_Unarmed.uasset"
+				"C:/Users/Hyde/Documents/GitHub/DecayGame/Decay/Content/Characters/Mannequins/Anims/Unarmed/ABP_Unarmed.uasset",
+				"C:/Users/Hyde/Documents/GitHub/DecayGame/Decay/Content/PhysMats/PM_Asphalt.uasset",
+				"C:/Users/Hyde/Documents/GitHub/DecayGame/Decay/Content/PhysMats/PM_Body.uasset",
+				"C:/Users/Hyde/Documents/GitHub/DecayGame/Decay/Content/PhysMats/PM_Metal.uasset",
+				"C:/Users/Hyde/Documents/GitHub/DecayGame/Decay/Content/Characters/Mannequins/Rigs/PA_Mannequin.uasset",
+				"C:/Users/Hyde/Documents/GitHub/DecayGame/Decay/Content/FPS_Weapon_Bundle/Weapons/Meshes/AR4/SK_AR4_Skeleton.uasset",
+				"C:/Users/CHI24000679/Downloads/DecayGame/Decay/Content/Characters/Mannequins/Anims/Unarmed/ABP_Unarmed.uasset",
+				"C:/Users/CHI24000679/Downloads/DecayGame/Decay/Content/Input/IMC_Default.uasset",
+				"C:/Users/CHI24000679/Downloads/DecayGame/Decay/Content/Input/Actions/IA_AimIn.uasset",
+				"C:/Users/CHI24000679/Downloads/DecayGame/Decay/Content/Multiplayer/Blueprints/BP_FirstChr2.uasset",
+				"C:/Users/Hyde/Documents/GitHub/DecayGame/Decay/Content/Multiplayer/BP_FirstPersonCharacter.uasset",
+				"C:/Users/Hyde/Documents/GitHub/DecayGame/Decay/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/Hyde/Documents/GitHub/DecayGame/Decay/Content/Multiplayer/Blueprints/BP_FirstPersonCharacter.uasset"
 			]
 		}
 	]
