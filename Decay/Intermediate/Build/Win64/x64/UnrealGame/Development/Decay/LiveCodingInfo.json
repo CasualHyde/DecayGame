@@ -1,5 +1,8 @@
 {
 	"RemapUnityFiles": 
 	{
+		"Module.Decay.cpp.obj": [
+			"Decay.cpp.obj"
+		]
 	}
 }

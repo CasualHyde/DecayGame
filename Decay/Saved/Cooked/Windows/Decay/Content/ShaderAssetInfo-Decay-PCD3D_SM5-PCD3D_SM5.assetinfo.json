@@ -353,7 +353,8 @@
 		{
 			"ShaderMapHash": "CD1CFA7F3014B922848ABBD8A7042E314552F548",
 			"Assets": [
-				"/Engine/EngineMaterials/Widget3DPassThrough"
+				"/Engine/EngineMaterials/Widget3DPassThrough",
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided"
 			]
 		},
 		{
@@ -377,7 +378,8 @@
 		{
 			"ShaderMapHash": "C4D59B8C12206D2F2049ECE6B5A9729CF72B5522",
 			"Assets": [
-				"/Game/LevelPrototyping/Materials/M_PrototypeGrid"
+				"/Game/LevelPrototyping/Materials/M_PrototypeGrid",
+				"/Game/LevelPrototyping/Materials/MI_PrototypeGrid_Gray"
 			]
 		},
 		{
@@ -443,7 +445,8 @@
 		{
 			"ShaderMapHash": "8162F59EFE908B41191A8CD1E400331EFF189AC4",
 			"Assets": [
-				"/Engine/EditorLandscapeResources/MaskBrushMaterial"
+				"/Engine/EditorLandscapeResources/MaskBrushMaterial",
+				"/Engine/EditorLandscapeResources/MaskBrushMaterial_MaskedRegion"
 			]
 		},
 		{
