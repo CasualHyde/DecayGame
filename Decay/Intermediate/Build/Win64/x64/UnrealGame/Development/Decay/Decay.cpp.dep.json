@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\chi24000679\\downloads\\decaygame\\decay\\intermediate\\source\\decay.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\chi24000679\\downloads\\decaygame\\decay\\intermediate\\build\\win64\\x64\\decay\\development\\core\\sharedpch.core.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\chi24000679\\downloads\\decaygame\\decay\\intermediate\\build\\win64\\x64\\unrealgame\\development\\decay\\definitions.decay.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

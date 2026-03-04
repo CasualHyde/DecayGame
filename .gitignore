@@ -72,3 +72,7 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Decay/Binaries/Win64/Decay.pdb
+*.ushaderbytecode
+Decay/Saved/StagedBuilds/Windows/Decay/Content/Paks/Decay-Windows.ucas
+*.pdb

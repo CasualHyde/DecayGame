@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\CHI24000679\\Downloads\\DecayGame\\Decay\\Intermediate\\Source\\Decay.Build.cs",
+		"C:\\Users\\CHI24000679\\Downloads\\DecayGame\\Decay\\Intermediate\\Source\\Decay.Target.cs",
+		"C:\\Users\\CHI24000679\\Downloads\\DecayGame\\Decay\\Intermediate\\Source\\DecayClient.Target.cs",
+		"C:\\Users\\CHI24000679\\Downloads\\DecayGame\\Decay\\Intermediate\\Source\\DecayEditor.Target.cs",
+		"C:\\Users\\CHI24000679\\Downloads\\DecayGame\\Decay\\Intermediate\\Source\\DecayServer.Target.cs"
+	],
+	"EngineVersion": "5.6.1"
+}
