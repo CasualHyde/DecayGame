@@ -1,12 +1,12 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\chi24000679\\downloads\\decaygame\\decay\\intermediate\\build\\win64\\x64\\unrealgame\\development\\decay\\module.decay.cpp",
+        "Source": "c:\\users\\hyde\\documents\\github\\decaygame\\decay\\intermediate\\build\\win64\\x64\\unrealgame\\development\\decay\\module.decay.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\users\\chi24000679\\downloads\\decaygame\\decay\\intermediate\\build\\win64\\x64\\decay\\development\\core\\sharedpch.core.project.valapi.valexpapi.cpp20.h.pch",
+        "PCH": "c:\\users\\hyde\\documents\\github\\decaygame\\decay\\intermediate\\build\\win64\\x64\\decay\\development\\core\\sharedpch.core.project.valapi.valexpapi.cpp20.h.pch",
         "Includes": [
-            "c:\\users\\chi24000679\\downloads\\decaygame\\decay\\intermediate\\build\\win64\\x64\\unrealgame\\development\\decay\\definitions.decay.h",
-            "c:\\users\\chi24000679\\downloads\\decaygame\\decay\\intermediate\\source\\decay.cpp"
+            "c:\\users\\hyde\\documents\\github\\decaygame\\decay\\intermediate\\build\\win64\\x64\\unrealgame\\development\\decay\\definitions.decay.h",
+            "c:\\users\\hyde\\documents\\github\\decaygame\\decay\\intermediate\\source\\decay.cpp"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

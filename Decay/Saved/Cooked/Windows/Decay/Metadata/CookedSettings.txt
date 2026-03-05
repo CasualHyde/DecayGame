@@ -4,5 +4,4 @@ CookIncremental=false
 ExecutableHashInvalidModule=C:/Program Files/Epic Games/UE_5.6/Engine/Binaries/Win64/
 CookMode=CookByTheBook
 DLCName=
-CookInProgress=true
 
