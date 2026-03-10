@@ -10464,3 +10464,54 @@ Script call stack:
 [2026.03.10-11.51.03:208][334]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
 [2026.03.10-11.51.03:361][335]LogPlayLevel: Display: Destroying online subsystem :Context_86
 [2026.03.10-11.51.03:363][335]LogPlayLevel: Display: Destroying online subsystem :Context_85
+[2026.03.10-11.55.45:719][286]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2026.03.10-11.55.45:728][286]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Multiplayer/Lvl_FirstPerson/6/98/L1C6GVPDNV271ER7LBXZPJ_Auto5
+[2026.03.10-11.55.45:728][286]LogSavePackage: Moving '../../../../../../Users/CHI24000679/Downloads/DecayGame/Decay/Saved/L1C6GVPDNV271ER7LBXZPJ_Auto5083AFD8F40D5E60391C15294D30F0CFF.tmp' to '../../../../../../Users/CHI24000679/Downloads/DecayGame/Decay/Saved/Autosaves/Game/__ExternalActors__/Multiplayer/Lvl_FirstPerson/6/98/L1C6GVPDNV271ER7LBXZPJ_Auto5.uasset'
+[2026.03.10-11.55.45:736][286]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Multiplayer/Lvl_FirstPerson/D/4Z/6CSUD5O779VDAF8J7ENJV6_Auto5
+[2026.03.10-11.55.45:737][286]LogSavePackage: Moving '../../../../../../Users/CHI24000679/Downloads/DecayGame/Decay/Saved/6CSUD5O779VDAF8J7ENJV6_Auto5968702C44CC931C942A2DD8A6C46324D.tmp' to '../../../../../../Users/CHI24000679/Downloads/DecayGame/Decay/Saved/Autosaves/Game/__ExternalActors__/Multiplayer/Lvl_FirstPerson/D/4Z/6CSUD5O779VDAF8J7ENJV6_Auto5.uasset'
+[2026.03.10-11.55.45:745][286]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Multiplayer/Lvl_FirstPerson/E/IZ/OJYH3GKZFYSGDI7R1D2VJC_Auto5
+[2026.03.10-11.55.45:745][286]LogSavePackage: Moving '../../../../../../Users/CHI24000679/Downloads/DecayGame/Decay/Saved/OJYH3GKZFYSGDI7R1D2VJC_Auto5AAD2F3BD476F2E5BB6429BA8A251FE01.tmp' to '../../../../../../Users/CHI24000679/Downloads/DecayGame/Decay/Saved/Autosaves/Game/__ExternalActors__/Multiplayer/Lvl_FirstPerson/E/IZ/OJYH3GKZFYSGDI7R1D2VJC_Auto5.uasset'
+[2026.03.10-11.55.45:748][286]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Multiplayer/Lvl_FirstPerson' took 0.061
+[2026.03.10-11.55.45:748][286]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.061
+[2026.03.10-11.55.45:749][286]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Multiplayer/Blueprints/BP_FirstChr2] ([2] browsable assets)...
+[2026.03.10-11.55.45:858][286]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Multiplayer/Blueprints/BP_FirstChr2.BP_FirstChr2]
+[2026.03.10-11.55.45:858][286]OBJ SavePackage: Finished generating thumbnails for package [/Game/Multiplayer/Blueprints/BP_FirstChr2]
+[2026.03.10-11.55.46:004][286]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Multiplayer/Blueprints/BP_FirstChr2_Auto5
+[2026.03.10-11.55.46:005][286]LogSavePackage: Moving '../../../../../../Users/CHI24000679/Downloads/DecayGame/Decay/Saved/BP_FirstChr2_Auto58EA5C0254152BCF8505E299358F538C7.tmp' to '../../../../../../Users/CHI24000679/Downloads/DecayGame/Decay/Saved/Autosaves/Game/Multiplayer/Blueprints/BP_FirstChr2_Auto5.uasset'
+[2026.03.10-11.55.46:008][286]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Multiplayer/Blueprints/BP_CapturingZone] ([2] browsable assets)...
+[2026.03.10-11.55.46:008][286]OBJ SavePackage: Finished generating thumbnails for package [/Game/Multiplayer/Blueprints/BP_CapturingZone]
+[2026.03.10-11.55.46:035][286]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Multiplayer/Blueprints/BP_CapturingZone_Auto5
+[2026.03.10-11.55.46:035][286]LogSavePackage: Moving '../../../../../../Users/CHI24000679/Downloads/DecayGame/Decay/Saved/BP_CapturingZone_Auto53D6A91604FC2F25D6D8088B70754DD54.tmp' to '../../../../../../Users/CHI24000679/Downloads/DecayGame/Decay/Saved/Autosaves/Game/Multiplayer/Blueprints/BP_CapturingZone_Auto5.uasset'
+[2026.03.10-11.55.46:036][286]LogFileHelpers: Auto-saving content packages took 0.288
+[2026.03.10-11.56.05:036][476]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5098.836426
+[2026.03.10-11.56.05:195][491]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.10-11.56.05:195][491]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5098.985840, Update Interval: 308.602570
+[2026.03.10-12.00.25:606][865]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2026.03.10-12.00.25:619][865]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.10-12.00.25:717][865]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Multiplayer/Lvl_FirstPerson/6/98/L1C6GVPDNV271ER7LBXZPJ
+[2026.03.10-12.00.25:720][865]LogSavePackage: Moving '../../../../../../Users/CHI24000679/Downloads/DecayGame/Decay/Saved/L1C6GVPDNV271ER7LBXZPJ36A88FD8448FC72024284FA600AF34BE.tmp' to '../../../../../../Users/CHI24000679/Downloads/DecayGame/Decay/Content/__ExternalActors__/Multiplayer/Lvl_FirstPerson/6/98/L1C6GVPDNV271ER7LBXZPJ.uasset'
+[2026.03.10-12.00.25:733][865]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Multiplayer/Lvl_FirstPerson/D/4Z/6CSUD5O779VDAF8J7ENJV6
+[2026.03.10-12.00.25:736][865]LogSavePackage: Moving '../../../../../../Users/CHI24000679/Downloads/DecayGame/Decay/Saved/6CSUD5O779VDAF8J7ENJV6312405B24DA26069AEE0938D45C037B5.tmp' to '../../../../../../Users/CHI24000679/Downloads/DecayGame/Decay/Content/__ExternalActors__/Multiplayer/Lvl_FirstPerson/D/4Z/6CSUD5O779VDAF8J7ENJV6.uasset'
+[2026.03.10-12.00.25:747][865]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Multiplayer/Lvl_FirstPerson/E/IZ/OJYH3GKZFYSGDI7R1D2VJC
+[2026.03.10-12.00.25:748][865]LogSavePackage: Moving '../../../../../../Users/CHI24000679/Downloads/DecayGame/Decay/Saved/OJYH3GKZFYSGDI7R1D2VJC94BE592D42FD82496ED785943150D194.tmp' to '../../../../../../Users/CHI24000679/Downloads/DecayGame/Decay/Content/__ExternalActors__/Multiplayer/Lvl_FirstPerson/E/IZ/OJYH3GKZFYSGDI7R1D2VJC.uasset'
+[2026.03.10-12.00.25:753][865]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Multiplayer/Blueprints/BP_FirstChr2] ([2] browsable assets)...
+[2026.03.10-12.00.25:753][865]OBJ SavePackage: Finished generating thumbnails for package [/Game/Multiplayer/Blueprints/BP_FirstChr2]
+[2026.03.10-12.00.25:753][865]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Multiplayer/Blueprints/BP_FirstChr2" FILE="../../../../../../Users/CHI24000679/Downloads/DecayGame/Decay/Content/Multiplayer/Blueprints/BP_FirstChr2.uasset" SILENT=true
+[2026.03.10-12.00.25:854][865]LogSavePackage: Moving output files for package: /Game/Multiplayer/Blueprints/BP_FirstChr2
+[2026.03.10-12.00.25:856][865]LogSavePackage: Moving '../../../../../../Users/CHI24000679/Downloads/DecayGame/Decay/Saved/BP_FirstChr2DA7385A44DE2009EBABCFCB1EAD4ED9F.tmp' to '../../../../../../Users/CHI24000679/Downloads/DecayGame/Decay/Content/Multiplayer/Blueprints/BP_FirstChr2.uasset'
+[2026.03.10-12.00.25:859][865]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Multiplayer/Blueprints/BP_CapturingZone] ([2] browsable assets)...
+[2026.03.10-12.00.25:859][865]OBJ SavePackage: Finished generating thumbnails for package [/Game/Multiplayer/Blueprints/BP_CapturingZone]
+[2026.03.10-12.00.25:890][865]LogSavePackage: Moving output files for package: /Game/Multiplayer/Blueprints/BP_CapturingZone
+[2026.03.10-12.00.25:891][865]LogSavePackage: Moving '../../../../../../Users/CHI24000679/Downloads/DecayGame/Decay/Saved/BP_CapturingZone1BBBE4C8442A376B8348BC97DEF5AFC0.tmp' to '../../../../../../Users/CHI24000679/Downloads/DecayGame/Decay/Content/Multiplayer/Blueprints/BP_CapturingZone.uasset'
+[2026.03.10-12.00.25:914][865]LogFileHelpers: InternalPromptForCheckoutAndSave took 295.176 ms
+[2026.03.10-12.00.26:006][865]LogContentValidation: Display: Starting to validate 5 assets
+[2026.03.10-12.00.26:007][865]LogContentValidation: Enabled validators:
+[2026.03.10-12.00.26:009][865]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.10-12.00.26:009][865]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.10-12.00.26:009][865]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.10-12.00.26:009][865]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.10-12.00.26:009][865]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.10-12.00.26:009][865]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.10-12.00.26:015][865]AssetCheck: /Game/Multiplayer/Lvl_FirstPerson Validating asset
+[2026.03.10-12.00.26:016][865]AssetCheck: /Game/Multiplayer/Blueprints/BP_FirstChr2 Validating asset
+[2026.03.10-12.00.26:016][865]AssetCheck: /Game/Multiplayer/Blueprints/BP_CapturingZone Validating asset
