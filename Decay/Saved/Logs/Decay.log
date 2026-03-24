@@ -13531,3 +13531,11 @@ Script call stack:
 [2026.03.24-12.02.22:252][ 61]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
 [2026.03.24-12.02.22:719][ 61]LogExit: Editor shut down
 [2026.03.24-12.02.22:806][ 61]LogExit: Transaction tracking system shut down
+[2026.03.24-12.02.25:187][ 61]LogExit: Object subsystem successfully closed.
+[2026.03.24-12.02.25:281][ 61]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.03.24-12.02.26:280][ 61]LogMemoryProfiler: Shutdown
+[2026.03.24-12.02.26:282][ 61]LogNetworkingProfiler: Shutdown
+[2026.03.24-12.02.26:282][ 61]LoadingProfiler: Shutdown
+[2026.03.24-12.02.26:283][ 61]LogTimingProfiler: Shutdown
+[2026.03.24-12.02.26:326][ 61]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.03.24-12.02.26:327][ 61]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
